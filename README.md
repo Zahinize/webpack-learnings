@@ -28,3 +28,5 @@ Some feature tutorials mentioned at [Guides | webpack.js.org](https://webpack.js
 - **Output Management** section tells you how to set configuration to dynamically generate bundled html page along with its assets and clean unused dependencies from `dist` folder.
 
 - **Development Mode** section tells you various ways to watch changes in your dependencies and create automatic bundles on save.
+
+- **Hot Module Replacement** section tells how to load all module (Html/React, CSS, JS etc.) changes dynamically in development mode without refreshing the web page
