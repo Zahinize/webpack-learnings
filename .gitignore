@@ -12,3 +12,4 @@ logs/
 *.map
 .eslintrc
 .prettierrc
+clientDist
